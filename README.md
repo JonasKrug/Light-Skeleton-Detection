@@ -53,3 +53,5 @@ Following the publication of our work, we will be incorporating the BeIntelli-LS
 
 ### Code References
 1. [PyTorch Keypoint R-CNN](https://pytorch.org/vision/main/models/keypoint_rcnn.html)
+2. [pycocotools](https://github.com/cocodataset/cocoapi/tree/master/PythonAPI/pycocotools)
+3. [PyTorch Object detection reference training scripts](https://github.com/pytorch/vision/tree/main/references/detection)
