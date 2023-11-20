@@ -18,6 +18,11 @@ This work was submitted to the [Autoware Challenge 2023](https://autoware.org/au
 | :-------------: |:-------------:| :-----:| :-----:|
 | Apollo3D (all off)     |0.51 | 0.84 | [model](https://tubcloud.tu-berlin.de/s/i4Pmg5oaJ9SdSKr)|
 
+### Results
+
+Fused results on custom data:
+
+![Custom results visualized in RViz](images/RViz_LSD.webp)
 
 ### Usage
 
